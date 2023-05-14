@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CartMay10.props" />
+</Project>
